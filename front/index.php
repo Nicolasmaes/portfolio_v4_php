@@ -6,7 +6,7 @@ include "../includes/header.php";
             <div class="card-cover" style="background-image: url('../assets/blue.png')">
             </div>
             <img class="card-avatar" src="../assets/profile_pic.jpg" alt="avatar" />
-            <h1 class="card-fullname">Nicolas</h1>
+            <h1 class="card-fullname">Nicolas Maës</h1>
             <h2 class="card-jobtitle">Full Stack Developer</h2>
         </div>
         <div class="card-main">
