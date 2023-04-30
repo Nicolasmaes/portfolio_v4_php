@@ -7,7 +7,7 @@ include "../includes/header.php";
             </div>
             <img class="card-avatar" src="../assets/profile_pic.jpg" alt="avatar" />
             <h1 class="card-fullname">Nicolas Maës</h1>
-            <h2 class="card-jobtitle">Full Stack Developer around the world</h2>
+            <h2 class="card-jobtitle">Full Stack Developer around the earth</h2>
         </div>
         <div class="card-main">
             <div class="card-section is-active" id="about">
